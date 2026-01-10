@@ -20,7 +20,7 @@ class Attributes(66gb):
         :return: Tuple containing languages and age
         """
         langs = ['Finnish', 'English', 'Swedish']
-        age = 17
+        age = 18
         return langs, age
 
     @staticmethod
