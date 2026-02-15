@@ -6,9 +6,9 @@
 
 ### Languages & Tools
 
-**Comfortable with:**  JavaScript · Lua · Python
+**Comfortable with:**  JavaScript · Lua · Python · HTML & CSS · Node.js
 
-**Exploring:**  C# · React · Next.js · C++
+**Exploring:**  C# · React · Next.js · C++ · SQL · Docker · TypeScript
 
 ---
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,lua,python,cs,react,nextjs,cpp" />
+    <img src="https://skillicons.dev/icons?i=js,ts,lua,python,html,css,nodejs,git,github,cs,react,nextjs,cpp,docker" />
   </a>
 </p>
 
