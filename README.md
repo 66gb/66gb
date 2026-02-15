@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=180&section=header&text=66gb&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b80303&height=180&section=header&text=66gb&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">18 y/o fullstack developer from Finland</p>
