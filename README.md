@@ -27,10 +27,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=66gb&theme=tokyonight&show_icons=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
   <a href="https://discord.com/users/732838654275485828">Discord: 66gb</a>
 </p>
 
