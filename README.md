@@ -1,4 +1,6 @@
-<h1 align="center">66gb</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=180&section=header&text=66gb&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+</p>
 
 <p align="center">18 y/o fullstack developer from Finland</p>
 
@@ -22,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,lua,python,html,css,nodejs,git,github,cs,react,nextjs,cpp,docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,lua,python,html,css,nodejs,git,github,cs,react,nextjs,cpp,docker&theme=dark" />
   </a>
 </p>
 
