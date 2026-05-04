@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=180%C2%A7ion=header&text=66gb&fontSize=80&fontColor=000000&animation=twinkling&fontAlignY=35" />
-</p>
+
 
 <p align="center">18 y/o fullstack developer from Finland</p>
 
